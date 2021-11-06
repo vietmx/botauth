@@ -1,0 +1,24 @@
+{
+  "name": "botauth-vso",
+  "version": "0.1.0",
+  "description": "BotAuth example for Visual Studio Online",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdot/botauth.git"
+  },
+  "keywords": [
+    "vso",
+    "botframework",
+    "oauth",
+    "botauth"
+  ],
+  "author": "Matt Dotson <mdotson@microsoft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "botauth": "latest"
+  }
+}
